@@ -1,0 +1,34 @@
+body{
+    background-color: grey;
+    font-size: medium;
+    font-family: monospace;
+}
+img{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    font-size: 28px;
+    font-family:sans-serif ;
+}
+h2{
+    text-align: left;
+    font-size: 28px;
+    font-family:sans-serif ;
+}
+h3{
+    text-align: left;
+    font-size: 28px;
+    font-family:sans-serif ;
+}
+h4{
+    text-align: left;
+    font-size: 28px;
+    font-family:sans-serif ;
+}
+P{
+    font-size: 24px;
+}
+ul{
+    font-size: 18px;
+}
