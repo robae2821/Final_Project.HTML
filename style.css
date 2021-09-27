@@ -1,6 +1,16 @@
-body{
-    background-color: blue;
+*{
+  margin: 0px 0px 5px 0px;
+}
+.background-color{
+    background-color:gray;
     font-size: 28px;
+}
+.flags-b {
+    background-color:gray;
+}
+.nav-b a{
+    float:right;
+    padding: 15px;
 }
 p {
 
@@ -27,17 +37,27 @@ ol {
     text-decoration: none;
     font-size: 17px;
   }
+  footer{
+    background-color: gray;
+    
+  }
+  footer h2{
+    text-align: center;
+    margin: 5px 10px;
+  }
   
   
 h1{
     text-align: center;
     font-size: 50px;
     font-family: 'Lobster', cursive;
+    color:black;
 }
 h2{
     text-align: center;
     font-size: 28px;
     font-family: 'Lobster', cursive;
+    color: black;
 }
 *, *:before, *:after {
     -moz-box-sizing: border-box;
